@@ -181,6 +181,7 @@ body {
     border-radius: 0;
     width: 100vw;
     padding-left: 0;
+    box-sizing: border-box;
   }
   .login {
     margin-left: 1rem;
@@ -190,14 +191,14 @@ body {
   }
   .first-email {
     margin-left: 1rem;
-    width: 22rem;
+    width: 15rem;
   }
   .password {
     margin-left: 1rem;
   }
   .first-pass {
     margin-left: 1rem;
-    width: 22rem;
+    width: 15rem;
   }
   .mainCheck {
     margin-left: 1rem;
